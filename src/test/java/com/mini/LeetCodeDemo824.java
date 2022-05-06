@@ -5,6 +5,9 @@ import org.junit.Test;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * #824 山羊拉丁文
+ */
 public class LeetCodeDemo824 {
 
     @Test
