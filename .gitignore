@@ -1,0 +1,35 @@
+.project
+.classpath
+*.log
+pids/*
+!.gitignore
+.project
+.settings/
+**/*.svn
+**/*.pmd
+*.svn
+*.sublime-project
+*.sublime-workspace
+*.swp
+.DS_Store
+.idea
+**/target/*
+**/logs/*
+test-output/
+*.iml
+tmp/
+/target/
+
+# Compiled class file
+*.class
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
