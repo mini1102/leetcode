@@ -31,6 +31,7 @@ public class LeetCodeDemo027 {
             System.out.println(reverseHead.val);
             reverseHead = reverseHead.next;
         }*/
+        //System.out.println(isPalindrome(head));
         System.out.println(isPalindrome(head));
     }
 
